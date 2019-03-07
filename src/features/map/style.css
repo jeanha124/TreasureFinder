@@ -1,0 +1,13 @@
+.tile {
+  display: inline-flex;
+}
+
+/* .bush {
+  background-image: url('/tiles/bush.png');
+  background-color: lightgreen;
+}
+
+.tree {
+  background-image: url('/tiles/tree.png');
+  background-color: lightgreen;
+} */
